@@ -1,0 +1,11 @@
+flask==1.1.2
+flask-ngrok==0.0.25
+line-bot-sdk==1.18.0
+pandas==1.1.5
+imgurpython==1.1.7
+SpeechRecognition==3.8.1
+pydub==0.24.1
+filetype==1.0.7
+opencc-python-reimplemented==0.1.6
+google==3.0.0
+protobuf==3.14.0
